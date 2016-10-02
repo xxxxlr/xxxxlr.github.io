@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Method on source .trueth.sh</title>
-    <link>ranli.me/tags/method/</link>
+    <link>/tags/method/</link>
     <description>Recent content in Method on source .trueth.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Sat, 01 Oct 2016 08:42:17 -0400</lastBuildDate>
-    <atom:link href="ranli.me/tags/method/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/method/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blog, the why, how and what</title>
-      <link>/ranli.me/post/blog-the-why-how-and-what/</link>
+      <link>/post/blog-the-why-how-and-what/</link>
       <pubDate>Sat, 01 Oct 2016 08:42:17 -0400</pubDate>
       
-      <guid>/ranli.me/post/blog-the-why-how-and-what/</guid>
+      <guid>/post/blog-the-why-how-and-what/</guid>
       <description>
 
 
 &lt;div class=&#34;pure-u-1-1&#34;&gt;
-  &lt;img class=&#34;pure-img&#34; src=&#34;ranli.me/img/post/my-eye.jpg&#34; alt=&#34;my eye&#34;&gt;
+  &lt;img class=&#34;pure-img&#34; src=&#34;/img/post/my-eye.jpg&#34; alt=&#34;my eye&#34;&gt;
 &lt;/div&gt;
 
 
